@@ -1,6 +1,6 @@
 {
     "ok": "Ok.",
-    "internalError": "Internal error.",
+    "internalError": "Lỗi nội bộ (Internal error).",
     "unauthorized" : "Không được phép!",
     "refreshTokenNotFound": "Refresh token not found.",
     "apiKeyNotFound" : "API Key không khả dụng hoặc không được cấp phép!",
