@@ -7,7 +7,7 @@
     "appKeyNotFound" : "App Key không khả dụng hoặc không được cấp phép!",    
     "recordDoesNotExist": "Record not found.",
     "recordIdIsMissing": "Record id is missing.",    
-    "homeNameExist": "Tên nhà đã tồn tại.",
+    "homeNameExist": "Nhà đã tồn tại.",
     "homeDoesNotExist": "Nhà không tồn tại.",
     "roomNameExist": "Tên phòng đã tồn tại.",
     "roomNameNotExist": "Phòng không tồn tại.",
