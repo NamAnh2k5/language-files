@@ -77,61 +77,61 @@
          "is online now":"hiện đang trực tuyến!",
          "is offline now":"hiện đang ngoại tuyến!",
          "deviceName is powerState now":"$deviceName hiện đang $powerState.",
-         "Please verify email address":"Please verify your email address to access all features",
-         "devices":"devices",
+         "Please verify email address":"Vui lòng xác minh địa chỉ email của bạn để sử dụng tất cả các tính năng",
+         "devices":"thiết bị",
          "Ding Dong":"Ding Dong!",
-         "Power is":"Power is",
-         "Temperature":"Temperature",
-         "Humidity":"Humidity",
-         "Real time" : "Real time",
-         "Six Hours" : "6 Hours",
-         "Today" : "Today",
-         "24 hours" : "24 Hours",
-         "Month" : "Month",
-         "Year" : "Year",
-         "Auto updates every minute" : "Auto updates every minute",         
+         "Power is":"Nguồn đang",
+         "Temperature":"Nhiệt độ",
+         "Humidity":"Độ ẩm",
+         "Real time" : "Thời gian thực",
+         "Six Hours" : "6 tiếng",
+         "Today" : "Hôm nay",
+         "24 hours" : "24 tiếng",
+         "Month" : "Tháng",
+         "Year" : "Năm",
+         "Auto updates every minute" : "Tự động cập nhật mỗi phút",         
          "smartlock":{ 
-            "Lock":"Lock",
-            "Unlock":"Unlock",
-            "Locked":"Locked",
-            "Unlocked":"Unlocked",
-            "Lock is":"Lock is"
+            "Lock":"Khóa",
+            "Unlock":"Mở khóa",
+            "Locked":"Đã khóa",
+            "Unlocked":"Đã mở khóa",
+            "Lock is":"Khóa đang"
          },
          "light":{ 
-            "Brightness":"Brightness",
-            "Light is":"Light is",
-            "Brightness set to":"Brightness set to ",
-            "Color":"Color "
+            "Brightness":"Độ sáng",
+            "Light is":"Đèn đang",
+            "Brightness set to":"Độ sáng được đặt thành",
+            "Color":"Màu sắc "
          },
          "switch":{ 
-            "Switch is":"Switch is"
+            "Switch is":"Công tắc đang"
          },
          "speaker":{ 
-            "Speaker is":"Speaker is",
-            "Muted":"Muted",
-            "Mute":"Mute",
-            "Unmute":"Unmute",
-            "Volume":"Volume",
-            "Set volume":"Set Volume"
+            "Speaker is":"Loa đang",
+            "Muted":"Đã tắt tiếng",
+            "Mute":"Tắt tiếng",
+            "Unmute":"Bật tiếng",
+            "Volume":"Âm lượng",
+            "Set volume":"Đặt âm lượng"
          },
          "tv":{ 
-            "Television is":"Television is"
+            "Television is":"TV đang"
          },
          "contact":{ 
-            "Contact was":"Contact was",
-            "Contact is":"Contact is",
-            "At":"at",
-            "Opened":"opened",
-            "Closed":"closed",
-            "Open":"Open",
-            "Close":"Close"
+            "Contact was":"Cảm biến tương tác đã",
+            "Contact is":"Cảm biến tương tác đang",
+            "At":"tại",
+            "Opened":"đã mở",
+            "Closed":"đã đóng",
+            "Open":"Mở",
+            "Close":"Đóng"
          },
          "motion":{ 
-            "Motion detected":"Motion detected!",
-            "At":"at",
-            "Detected":"Detected",
-            "Not Detected":"Not detected",
-            "Trigger":"Trigger"
+            "Motion detected":"Đã phát hiện chuyển động!",
+            "At":"tại",
+            "Detected":"Đã phát hiện",
+            "Not Detected":"Không được phát hiện",
+            "Trigger":"Kích hoạt"
          },
          "fan":{ 
             "Fan is":"Fan is",
