@@ -93,9 +93,9 @@
          "smartlock":{ 
             "Lock":"Khóa",
             "Unlock":"Mở khóa",
-            "Locked":"Đã khóa",
-            "Unlocked":"Đã mở khóa",
-            "Lock is":"Khóa đang"
+            "Locked":"Đã được khóa",
+            "Unlocked":"Đã được mở khóa",
+            "Lock is":"Khóa"
          },
          "light":{ 
             "Brightness":"Độ sáng",
@@ -108,7 +108,7 @@
          },
          "speaker":{ 
             "Speaker is":"Loa đang",
-            "Muted":"Đã tắt tiếng",
+            "Muted":"Được tắt tiếng",
             "Mute":"Tắt tiếng",
             "Unmute":"Bật tiếng",
             "Volume":"Âm lượng",
@@ -121,8 +121,8 @@
             "Contact was":"Cảm biến tương tác đã",
             "Contact is":"Cảm biến tương tác đang",
             "At":"tại",
-            "Opened":"đã mở",
-            "Closed":"đã đóng",
+            "Opened":"được mở",
+            "Closed":"được đóng",
             "Open":"Mở",
             "Close":"Đóng"
          },
