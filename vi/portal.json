@@ -134,37 +134,37 @@
             "Trigger":"Kích hoạt"
          },
          "fan":{ 
-            "Fan is":"Fan is",
-            "Level set to":"Level set to",
-            "Set level":"Set Level",
+            "Fan is":"Quạt đang",
+            "Level set to":"Mức độ gió được đặt thành",
+            "Set level":"Đặt mức độ gió",
             "Level 1":"1",
             "Level 2":"2",
             "Level 3":"3"
          },
          "acUnit":{ 
-            "AC is":"AC is",
-            "Set to":"Set to",
-            "Set Tempreature":"Set Tempreature"
+            "AC is":"AC đang",
+            "Set to":"Đặt thành",
+            "Set Tempreature":"Chỉnh nhiệt độ"
          },
          "thermostat":{ 
-            "Thermostat is":"Thermostat is",
-            "Set to":"Set to",
-            "Set Tempreature":"Set Tempreature",
-            "Set Point":"Set Point",
-            "Mode":"Mode",
-            "Set Mode":"Set Mode",
-            "Heat":"Heat",
-            "Cool":"Cool",
-            "Auto":"Auto",
-            "Off":"Off"
+            "Thermostat is":"Bộ điều nhiệt đang",
+            "Set to":"Đặt thành",
+            "Set Tempreature":"Chỉnh nhiệt độ",
+            "Set Point":"Điểm đặt",
+            "Mode":"Chế độ",
+            "Set Mode":"Đặt chế độ",
+            "Heat":"Nóng",
+            "Cool":"Tự động",
+            "Auto":"Tự động",
+            "Off":"Tắt"
          },
          "doorbell":{ 
-            "At":"at",
-            "Doorbell rang":"Doorbell rang",
+            "At":"tại",
+            "Doorbell rang":"Chuông cửa reo",
             "Ding dong":"Ding dong"
          },
          "dimmerSwitch":{ 
-            "Dimmer switch is":"Dimmer switch is"
+            "Dimmer switch is":"Công tắc điều chỉnh độ sáng đang"
          },
          "blinds":{ 
             "Blinds are":"Blinds are",
